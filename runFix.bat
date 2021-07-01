@@ -1,1 +1,1 @@
-﻿PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File "".\PrntNghtmreFix.ps1""' -Verb RunAs}"
+powershell.exe -NoProfile -executionpolicy bypass -windowstyle hidden -noninteractive -nologo -file "PrntNghtmreFix.ps1" -Verb RunAsRunAs}"
