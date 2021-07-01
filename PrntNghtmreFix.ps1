@@ -1,5 +1,3 @@
-﻿Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
-
 $Path = "C:\Windows\System32\spool\drivers"
 
 $Acl = Get-Acl $Path
